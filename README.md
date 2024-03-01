@@ -6,6 +6,10 @@ Simple openssl encryption and decryption tool written in Rust :crab: utilizing t
 
 Program requires rust to be installed or the binary can be downloaded from the releases page and run on any system that has openssl installed.
 
+### Download Binary
+
+- Download the binary from the [releases page](https://github.com/Topazstix/open-encryptor/releases/tag/alpha-release)
+
 ### Build
 
 - Clone the repository
